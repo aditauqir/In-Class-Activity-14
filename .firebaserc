@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "mad-inclass11": {
+      "storage": {
+        "default": [
+          "mad-inclass11.firebasestorage.app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
